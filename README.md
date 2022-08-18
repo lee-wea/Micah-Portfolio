@@ -6,6 +6,6 @@ Hello, My name is Micah Weathersby and this is my github portfolio. I am using g
 
 First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Content Cell  | ~~Content Cell~~
+_Content Cell_  | Content Cell
 
