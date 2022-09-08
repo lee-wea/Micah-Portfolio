@@ -3,6 +3,8 @@ Hello, My name is Micah Weathersby and this is my github portfolio. I am using g
 
 ## Contents
 - [Resume](Resume.md)
+- [Programming-Languages](Programming.md)
+- [Binary-Logic](Binary-Logic.md)
 
 First Header  | Second Header
 ------------- | -------------
