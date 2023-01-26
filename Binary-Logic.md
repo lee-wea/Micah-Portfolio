@@ -1,5 +1,5 @@
 # Binary Logic
-
+ 
 ## Truth Tables
 
 Not
